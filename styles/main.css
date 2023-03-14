@@ -21,4 +21,9 @@
     border-bottom: 1px solid #bababa;
 }
 
-
+.top-nav ul li {
+    list-style:none;
+    display: inline-block;
+    margin-right:  30px;
+    margin-top: 10px;
+}
